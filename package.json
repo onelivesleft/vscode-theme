@@ -1,9 +1,10 @@
 {
-    "publisher": "onelivesleft",
     "name": "onelivesleft",
     "displayName": "onelivesleft",
     "description": "Dark theme for pleasant coding experience",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "publisher": "onelivesleft",
+    "repository": "https://github.com/onelivesleft/vscode-theme",
     "engines": {
         "vscode": "^1.61.0"
     },
