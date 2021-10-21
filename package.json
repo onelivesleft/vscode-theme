@@ -1,0 +1,22 @@
+{
+    "publisher": "onelivesleft",
+    "name": "onelivesleft",
+    "displayName": "onelivesleft",
+    "description": "Dark theme for pleasant coding experience",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "onelivesleft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/onelivesleft-color-theme.json"
+            }
+        ]
+    }
+}
